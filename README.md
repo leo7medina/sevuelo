@@ -1,5 +1,9 @@
 # SE Vuelo
 
+> Proyecto practica para evaluacion.
+
+ESTADO: FINALIZADO
+
 ## Prerequisites
 
 - Install and configure Git
